@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yicheng Qian</h1>
-<h3 align="center">A passionate frontend, backend and fullstack developer from China</h3>
+<h3 align="center">A passionate generative AI developer from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidqian123&label=Profile%20views&color=0e75b6&style=flat" alt="davidqian123" /> </p>
 
-- 🌱 I’m currently learning **software developing and AIGC**
+- 🌱 I’m currently exploring **On-device AI**
 
 - 📫 How to reach me **ycqian1229@gmail.com**
 
